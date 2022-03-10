@@ -1,0 +1,5 @@
+_book
+*.rds
+packages.bib
+*_files
+.Rproj.user
