@@ -15,4 +15,4 @@ To build this book with R:
 
 To preview the book while working on it:
 
-```bookdown::serve_book()```
+```bookdown::serve_book('./bookdown')```
